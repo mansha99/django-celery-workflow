@@ -8,6 +8,20 @@ https://medium.com/@mansha99/workflow-using-django-celery-cf65092c5add
 
 Creating Workflow using Django and Celery
 
+##### Please refer to
+
+###### tasks/celery_tasks.py for all Celery tasks
+
+###### tasks/management/commands folder for all commands
+
+## Dependencies
+
+```console
+pip install django
+pip install django-redis
+pip install requests
+```
+
 ## Commands
 
 #### Launching workflow
