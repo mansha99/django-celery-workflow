@@ -1,6 +1,8 @@
 ## What this Repo is for ?
 
-It contains source code for tutorial published https://medium.com/@mansha99/workflow-using-django-celery-cf65092c5add
+It contains source code for tutorial published at
+
+https://medium.com/@mansha99/workflow-using-django-celery-cf65092c5add
 
 ### What it demonstrates?
 
